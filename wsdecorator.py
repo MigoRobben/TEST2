@@ -30,3 +30,6 @@ def tail_call_optimized(g):
 
 def pp():
     print("HAHA")
+
+def ppppp():
+    pass
