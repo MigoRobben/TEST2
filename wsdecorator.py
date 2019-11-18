@@ -27,3 +27,6 @@ def tail_call_optimized(g):
                     kwargs = e.kwargs
     func.__doc__ = g.__doc__
     return func
+
+def pp():
+    print("HAHA")
